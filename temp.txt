@@ -1,8 +1,2 @@
-Namaskaram,
-
-I am Sarvesh Devrukhkar.
-I am writing these lines from my new OS Ubuntu.
-
-And this is my first experiment commit to check the functionality.
-
+Namaskar, This is test commit to ckech my Git is working or not.
 Thank You!
