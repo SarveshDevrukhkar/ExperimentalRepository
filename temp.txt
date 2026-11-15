@@ -1,2 +1,1 @@
 Namaskar, This is test commit to ckech my Git is working or not.
-Thank You!
